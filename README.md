@@ -7,8 +7,6 @@
 
 # Resources:
 - Fabric & Fabric API:
-   
-![](https://i.imgur.com/PMUNaI0.png](https://fabricmc.net/assets/logo.png)
 
 https://fabricmc.net/
 
