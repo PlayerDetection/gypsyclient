@@ -1,7 +1,7 @@
 # RusherHack Anarchy Client (1.21.1)
 
 # Requirements:
-- Download Gypsy .jar
+- Download .jar
 - Fabric & Fabric API 1.21.1
 - Normal MC Launcher
 
